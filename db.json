@@ -1,0 +1,95 @@
+{
+  "productList": [
+    {
+      "productName": "Orange",
+      "category": "Fruits",
+      "freshness": "Brandname",
+      "price": 400,
+      "message": "Orange latest",
+      "date": "2022-07-24T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "freshness": "Secondhand",
+      "price": 300,
+      "message": "This is not fresh mango",
+      "date": "2022-07-26T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "freshness": "Secondhand",
+      "price": 300,
+      "message": "This is not fresh mango",
+      "date": "2022-07-26T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "gueav",
+      "category": "Fruits",
+      "freshness": "Brandname",
+      "price": 40,
+      "message": "message",
+      "date": "2022-07-18T18:30:00.000Z",
+      "id": 8
+    },
+    {
+      "productName": "Minues",
+      "category": "Fruits",
+      "freshness": "Brandname",
+      "price": 500,
+      "message": "latest apple",
+      "date": "2022-07-24T18:30:00.000Z",
+      "id": 9
+    },
+    {
+      "productName": "advd",
+      "category": "Electronics",
+      "freshness": "Secondhand",
+      "price": 56,
+      "message": "abgvrsdf",
+      "date": "2022-07-11T18:30:00.000Z",
+      "id": 10
+    },
+    {
+      "productName": "raja",
+      "category": "Vegetables",
+      "freshness": "Secondhand",
+      "price": 456,
+      "message": "fb xfdv",
+      "date": "2022-07-20T18:30:00.000Z",
+      "id": 11
+    },
+    {
+      "productName": "sujesh",
+      "category": "Vegetables",
+      "freshness": "Brandname",
+      "price": 50,
+      "message": "check",
+      "date": "2022-07-20T18:30:00.000Z",
+      "id": 12
+    },
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brandname",
+      "price": 250,
+      "message": "Fresh New Apples",
+      "date": "2022-08-07T18:30:00.000Z",
+      "id": 13
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
